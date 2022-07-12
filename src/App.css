@@ -11,7 +11,7 @@
 
 .nav-bar {
   height: 70px;
-  background-color: black;
+  background-color: Red;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -20,7 +20,7 @@
 
 .nav-bar a {
   text-decoration: none;
-  color: white;
+  color: yellow;
 }
 
 .nav-bar h2 {
